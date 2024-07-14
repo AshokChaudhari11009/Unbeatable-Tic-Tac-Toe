@@ -6,20 +6,6 @@ Welcome to the Unbeatable Tic-Tac-Toe game, where you can test your skills again
 
 - SFML library
 
-# Usage
-
-### Start the game
-Run the executable file.
-
-### Human turn
-Click on an empty cell to place your move (O).
-
-### Computer turn
-The computer will automatically place its move (X).
-
-### End game
-The game ends when either the human or computer wins, or if the board is full (draw).
-
 ## The Unbeatable AI: Minimax Algorithm with Alpha-Beta Pruning
 
 ### Minimax Algorithm
